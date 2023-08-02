@@ -18,7 +18,7 @@ K-Means clustering is an unsupervised machine learning algorithm used for partit
 
 **5. Final Result:** The algorithm produces K clusters, and each data point belongs to one of these clusters.
 
-Key Points and Considerations:
+### Key Points and Considerations:
 
 1. Number of Clusters (K): Choosing the right number of clusters is important. An inappropriate K value can lead to overfitting or underfitting. Techniques like the Elbow Method or Silhouette Score can help determine the optimal K.
 2. Initialization: The initial placement of centroids can influence the final clusters. k-means++ initialization can provide more robust starting centroids.
